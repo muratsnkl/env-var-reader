@@ -1,0 +1,6 @@
+---
+version: 2.0.0
+codeOwners:
+  - '0x82c25ee97b0c4f3bcf316baa888d91a884cc2fe8'  # Metamask'tan kopyala
+quorum: 1
+
